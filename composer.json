@@ -1,0 +1,11 @@
+{
+    "name": "drupal/ray",
+    "description": "TODO",
+    "type": "drupal-module",
+    "license": "GPL-2.0-or-later",
+    "minimum-stability": "stable",
+    "require": {
+        "drupal/core": "^9.0",
+        "spatie/ray": "^1.5"
+    }
+}
