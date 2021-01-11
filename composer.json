@@ -1,17 +1,18 @@
 {
-    "name": ":vendor_name/:package_name",
-    "description": ":package_description",
+    "name": "spatie/drupal-ray",
+    "description": "Debug Drupal applications with Ray",
     "keywords": [
-        ":vendor_name",
-        ":package_name"
+        "spatie",
+        "drupal",
+        "ray"
     ],
-    "homepage": "https://github.com/:vendor_name/:package_name",
+    "homepage": "https://github.com/spatie/drupal-ray",
     "license": "MIT",
     "authors": [
         {
-            "name": ":author_name",
-            "email": ":author_email",
-            "homepage": ":author_homepage",
+            "name": "Oliver Davies",
+            "email": "info@spatie.be",
+            "homepage": "https://myray.app",
             "role": "Developer"
         }
     ],
@@ -47,11 +48,7 @@
     "funding": [
         {
             "type": "github",
-            "url": "https://github.com/sponsors/:vendor_name"
-        },
-        {
-            "type": "other",
-            "url": ":author_homepage"
+            "url": "https://github.com/sponsors/spatie"
         }
     ]
 }
