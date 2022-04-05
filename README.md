@@ -1,3 +1,5 @@
+**THIS PACKAGE IS NOT READY YET, FOR USING RAY IN DRUPAL USE [THE FRAMEWORK AGONSTIC PACKAGE](https://github.com/spatie/ray)**
+
 
 [<img src="https://github-ads.s3.eu-central-1.amazonaws.com/support-ukraine.svg?t=1" />](https://supportukrainenow.org)
 
